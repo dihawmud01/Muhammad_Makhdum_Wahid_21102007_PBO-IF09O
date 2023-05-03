@@ -13,7 +13,7 @@ public class Barang {
         this.harga = harga;
     }
 
-    // Method
+    // Methods
     public void ShowInfo(){
         System.out.println("Nama Barang: " + this.nama);
         System.out.println("Harga Barang: " + this.harga);

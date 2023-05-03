@@ -12,7 +12,7 @@ public class Main {
                 new Barang("Gula", 15000),
         };
 
-    // Melihat Panjang Array
+    // Melihat Panjang Arrays
     System.out.println(
             "Banyak barang di Etalase : "
             +etalase.length);
